@@ -1,0 +1,55 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+
+body {
+	background-color: black;
+}
+
+.webcoderskull{
+	position: absolute;
+	left: 0;
+	top: 50%;
+	padding: 0 20px;
+	width: 100%;
+	text-align: center;
+}
+
+canvas{
+	height:100vh;
+	background-color:black;
+}
+
+h1{
+  	letter-spacing: 5px;
+  	font-size: 5rem;
+  	font-family: 'Aldrich', sans-serif;
+	text-transform: uppercase;
+  	font-weight: bold;
+	color: white;
+}
+
+h3{
+  	letter-spacing: 5px;
+  	font-size: 2rem;
+	text-justify: auto;
+  	font-family: 'Aldrich', sans-serif;
+	text-transform: uppercase;
+  	font-weight: bold;
+	color: white;
+}
+
+
+.webcoderskull p{
+	font-family: 'Aldrich', sans-serif;
+	color: white;
+}
+
+.contenido {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+.mt-10 {
+	margin-top: 10rem;
+}
